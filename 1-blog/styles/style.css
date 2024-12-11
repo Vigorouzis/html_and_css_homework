@@ -1,0 +1,68 @@
+body {
+  background: linear-gradient(#374151, #111827);
+}
+
+a {
+  font-weight: 400;
+  color: #ffffff;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+  color: #ffffff;
+}
+
+.navItem {
+  font-size: 16px;
+  line-height: 18.75px;
+  text-decoration: none;
+}
+
+.navLogo {
+  font-size: 18px;
+  line-height: 21.09px;
+  text-decoration: none;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+}
+
+.author {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #ffffff;
+}
+
+.position {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  color: #ffffff99;
+}
+
+.mainText {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #ffffff;
+}
+
+.secondaryText,
+.thirdText {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+footer {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #ffffff99;
+}
