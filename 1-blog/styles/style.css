@@ -1,0 +1,103 @@
+body {
+  background: linear-gradient(#374151, #111827);
+}
+
+header {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  font-weight: 400;
+  color: #ffffff;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+  color: #ffffff;
+  text-align: center;
+}
+
+footer {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #ffffff99;
+}
+
+footer p {
+  margin: 103px 0 0 0;
+  text-align: center;
+}
+
+.navList {
+  list-style: none;
+}
+
+.navItem {
+  font-size: 16px;
+  line-height: 18.75px;
+  text-decoration: none;
+}
+
+.navLogo {
+  font-size: 18px;
+  line-height: 21.09px;
+  text-decoration: none;
+}
+
+.blocInput {
+  width: 224px;
+  height: 40px;
+  border: none;
+  border-radius: 100px;
+  padding: 14px 0 12px 18px;
+  background: #1f293799;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+}
+
+.author {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #ffffff;
+}
+
+.imageSection {
+  margin: 28px auto 69px;
+  padding: 0;
+  width: 896px;
+  height: 594px;
+}
+
+.position {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  color: #ffffff99;
+}
+
+.pageText {
+  padding: 0 365px 0 367px;
+}
+
+.mainText {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #ffffff;
+}
+
+.secondaryText,
+.thirdText {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #ffffff;
+}
